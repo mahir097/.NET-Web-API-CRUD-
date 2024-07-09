@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\demir\\Documents\\GitHub\\.NET-Web-API-CRUD-\\EmployeeAdminPortal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13B85FA0-637D-4B90-ADE3-78977F475EF5}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\demir\\documents\\github\\.net-web-api-crud-\\employeeadminportal\\employeeadminportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B85FA0-637D-4B90-ADE3-78977F475EF5}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13B85FA0-637D-4B90-ADE3-78977F475EF5}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\demir\\documents\\github\\.net-web-api-crud-\\employeeadminportal\\employeeadminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13B85FA0-637D-4B90-ADE3-78977F475EF5}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Documents\\GitHub\\.NET-Web-API-CRUD-\\EmployeeAdminPortal\\EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\demir\\Documents\\GitHub\\.NET-Web-API-CRUD-\\EmployeeAdminPortal\\EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:46:56.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\demir\\Documents\\GitHub\\.NET-Web-API-CRUD-\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeeAdminPortal.http",
               "DocumentMoniker": "C:\\Users\\demir\\Documents\\GitHub\\.NET-Web-API-CRUD-\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.http",
               "RelativeDocumentMoniker": "EmployeeAdminPortal\\EmployeeAdminPortal.http",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "EmployeeAdminPortal\\EmployeeAdminPortal.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-09T12:05:39.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T12:05:39.087Z"
             }
           ]
         }
