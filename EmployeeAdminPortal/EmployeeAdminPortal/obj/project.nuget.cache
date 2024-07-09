@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i+VT+F9exTjBr9/My1gfmGzEwBZYdpcoUwRGHLaQepuJCweVW34oMdDV+ZxKFa2tmaC4gMucZtSSlMDEiDALdQ==",
+  "dgSpecHash": "eoBH1/d4lXQO8s2EsyQ7qTSxbuu/Etz9Poz5FWwidB9r70DVQwgzUoKA+xGGcijPsohLuLYpLjCGG1EcF06Riw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\demir\\OneDrive\\Desktop\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+  "projectFilePath": "C:\\Users\\demir\\Documents\\GitHub\\.NET-Web-API-CRUD-\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\demir\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\demir\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
