@@ -31,8 +31,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T10:15:45.493Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -42,7 +41,7 @@
               "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
               "ToolTip": "C:\\Users\\demir\\Documents\\GitHub\\.NET-Web-API-CRUD-\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
               "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAowE4AAAAAAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAowEwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T07:17:18.428Z",
               "EditorCaption": ""
