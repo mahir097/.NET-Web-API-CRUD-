@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{13B85FA0-637D-4B90-ADE3-78977F475EF5}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\demir\\documents\\github\\.net-web-api-crud-\\employeeadminportal\\employeeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13B85FA0-637D-4B90-ADE3-78977F475EF5}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B85FA0-637D-4B90-ADE3-78977F475EF5}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\demir\\documents\\github\\.net-web-api-crud-\\employeeadminportal\\employeeadminportal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B85FA0-637D-4B90-ADE3-78977F475EF5}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Documents\\GitHub\\.NET-Web-API-CRUD-\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\demir\\Documents\\GitHub\\.NET-Web-API-CRUD-\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:33:11.564Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
               "ToolTip": "C:\\Users\\demir\\Documents\\GitHub\\.NET-Web-API-CRUD-\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
               "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAuAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA8wCsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T07:17:18.428Z",
               "EditorCaption": ""
